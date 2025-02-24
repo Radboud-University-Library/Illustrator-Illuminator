@@ -16,7 +16,11 @@ The images are processed in batches, and based on the model's predictions, they 
 - Tkinter
 
 ## Installation
-1. Install the required Python packages:
+1. Clone the repository:
+```bash
+    git clone https://github.com/Radboud-University-Library/Illustrator-Illuminator.git
+````
+2. Install the required Python packages:
 ```bash
     pip install -r requirements.txt
 ```
@@ -66,4 +70,3 @@ To run the project, execute the `main.py` file:
     
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
